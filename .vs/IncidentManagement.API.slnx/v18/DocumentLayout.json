@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CODE\\IncidentManagement.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF72767-9C18-C306-0B12-D7B79DDD4E05}|IncidentManagement.API\\IncidentManagement.API.csproj|d:\\code\\incidentmanagement.api\\incidentmanagement.api\\controllers\\incidentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF72767-9C18-C306-0B12-D7B79DDD4E05}|IncidentManagement.API\\IncidentManagement.API.csproj|solutionrelative:incidentmanagement.api\\controllers\\incidentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF72767-9C18-C306-0B12-D7B79DDD4E05}|IncidentManagement.API\\IncidentManagement.API.csproj|d:\\code\\incidentmanagement.api\\incidentmanagement.api\\models\\createincidentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF72767-9C18-C306-0B12-D7B79DDD4E05}|IncidentManagement.API\\IncidentManagement.API.csproj|solutionrelative:incidentmanagement.api\\models\\createincidentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF72767-9C18-C306-0B12-D7B79DDD4E05}|IncidentManagement.API\\IncidentManagement.API.csproj|d:\\code\\incidentmanagement.api\\incidentmanagement.api\\models\\updateincidentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF72767-9C18-C306-0B12-D7B79DDD4E05}|IncidentManagement.API\\IncidentManagement.API.csproj|solutionrelative:incidentmanagement.api\\models\\updateincidentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF72767-9C18-C306-0B12-D7B79DDD4E05}|IncidentManagement.API\\IncidentManagement.API.csproj|d:\\code\\incidentmanagement.api\\incidentmanagement.api\\models\\incident.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF72767-9C18-C306-0B12-D7B79DDD4E05}|IncidentManagement.API\\IncidentManagement.API.csproj|solutionrelative:incidentmanagement.api\\models\\incident.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF72767-9C18-C306-0B12-D7B79DDD4E05}|IncidentManagement.API\\IncidentManagement.API.csproj|d:\\code\\incidentmanagement.api\\incidentmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF72767-9C18-C306-0B12-D7B79DDD4E05}|IncidentManagement.API\\IncidentManagement.API.csproj|solutionrelative:incidentmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateIncidentDto.cs",
+              "DocumentMoniker": "D:\\CODE\\IncidentManagement.API\\IncidentManagement.API\\Models\\UpdateIncidentDto.cs",
+              "RelativeDocumentMoniker": "IncidentManagement.API\\Models\\UpdateIncidentDto.cs",
+              "ToolTip": "D:\\CODE\\IncidentManagement.API\\IncidentManagement.API\\Models\\UpdateIncidentDto.cs",
+              "RelativeToolTip": "IncidentManagement.API\\Models\\UpdateIncidentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T00:16:48.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateIncidentDto.cs",
+              "DocumentMoniker": "D:\\CODE\\IncidentManagement.API\\IncidentManagement.API\\Models\\CreateIncidentDto.cs",
+              "RelativeDocumentMoniker": "IncidentManagement.API\\Models\\CreateIncidentDto.cs",
+              "ToolTip": "D:\\CODE\\IncidentManagement.API\\IncidentManagement.API\\Models\\CreateIncidentDto.cs",
+              "RelativeToolTip": "IncidentManagement.API\\Models\\CreateIncidentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T00:09:35.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IncidentsController.cs",
+              "DocumentMoniker": "D:\\CODE\\IncidentManagement.API\\IncidentManagement.API\\Controllers\\IncidentsController.cs",
+              "RelativeDocumentMoniker": "IncidentManagement.API\\Controllers\\IncidentsController.cs",
+              "ToolTip": "D:\\CODE\\IncidentManagement.API\\IncidentManagement.API\\Controllers\\IncidentsController.cs",
+              "RelativeToolTip": "IncidentManagement.API\\Controllers\\IncidentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T23:19:39.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CODE\\IncidentManagement.API\\IncidentManagement.API\\Program.cs",
+              "RelativeDocumentMoniker": "IncidentManagement.API\\Program.cs",
+              "ToolTip": "D:\\CODE\\IncidentManagement.API\\IncidentManagement.API\\Program.cs",
+              "RelativeToolTip": "IncidentManagement.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T00:07:15.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Incident.cs",
+              "DocumentMoniker": "D:\\CODE\\IncidentManagement.API\\IncidentManagement.API\\Models\\Incident.cs",
+              "RelativeDocumentMoniker": "IncidentManagement.API\\Models\\Incident.cs",
+              "ToolTip": "D:\\CODE\\IncidentManagement.API\\IncidentManagement.API\\Models\\Incident.cs",
+              "RelativeToolTip": "IncidentManagement.API\\Models\\Incident.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T23:19:08.232Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
