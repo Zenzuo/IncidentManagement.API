@@ -1,6 +1,6 @@
 ﻿using IncidentManagement.API.Models; 
 
-namespace IncidentManagement.Api.Dtos
+namespace IncidentManagement.API.Dtos
 {
     public class UpdateIncidentDto
     {
