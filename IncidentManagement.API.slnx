@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="IncidentManagement.API/IncidentManagement.API.csproj" />
+  <Project Path="IncidentManagement.Tests/IncidentManagement.Tests.csproj" Id="3e446be6-d876-42c0-ac64-339b383c2f53" />
 </Solution>

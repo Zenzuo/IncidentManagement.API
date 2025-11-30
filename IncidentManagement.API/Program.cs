@@ -19,6 +19,7 @@ builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseSqlite("Data Source=incidents.db"));
 
 builder.Services.AddScoped<IncidentService>();
+builder.Services.AddScoped<CommentService>();
 
 
 var app = builder.Build();

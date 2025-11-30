@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "D:\\Code\\IncidentManagement.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DFF72767-9C18-C306-0B12-D7B79DDD4E05}|IncidentManagement.API\\IncidentManagement.API.csproj|d:\\code\\incidentmanagement.api\\incidentmanagement.api\\controllers\\incidentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFF72767-9C18-C306-0B12-D7B79DDD4E05}|IncidentManagement.API\\IncidentManagement.API.csproj|solutionrelative:incidentmanagement.api\\controllers\\incidentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E446BE6-D876-42C0-AC64-339B383C2F53}|IncidentManagement.Tests\\IncidentManagement.Tests.csproj|d:\\code\\incidentmanagement.api\\incidentmanagement.tests\\commentservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E446BE6-D876-42C0-AC64-339B383C2F53}|IncidentManagement.Tests\\IncidentManagement.Tests.csproj|solutionrelative:incidentmanagement.tests\\commentservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E446BE6-D876-42C0-AC64-339B383C2F53}|IncidentManagement.Tests\\IncidentManagement.Tests.csproj|d:\\code\\incidentmanagement.api\\incidentmanagement.tests\\incidentservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E446BE6-D876-42C0-AC64-339B383C2F53}|IncidentManagement.Tests\\IncidentManagement.Tests.csproj|solutionrelative:incidentmanagement.tests\\incidentservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DFF72767-9C18-C306-0B12-D7B79DDD4E05}|IncidentManagement.API\\IncidentManagement.API.csproj|d:\\code\\incidentmanagement.api\\incidentmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DFF72767-9C18-C306-0B12-D7B79DDD4E05}|IncidentManagement.API\\IncidentManagement.API.csproj|solutionrelative:incidentmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF72767-9C18-C306-0B12-D7B79DDD4E05}|IncidentManagement.API\\IncidentManagement.API.csproj|d:\\code\\incidentmanagement.api\\incidentmanagement.api\\services\\commentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF72767-9C18-C306-0B12-D7B79DDD4E05}|IncidentManagement.API\\IncidentManagement.API.csproj|solutionrelative:incidentmanagement.api\\services\\commentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF72767-9C18-C306-0B12-D7B79DDD4E05}|IncidentManagement.API\\IncidentManagement.API.csproj|d:\\code\\incidentmanagement.api\\incidentmanagement.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF72767-9C18-C306-0B12-D7B79DDD4E05}|IncidentManagement.API\\IncidentManagement.API.csproj|solutionrelative:incidentmanagement.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF72767-9C18-C306-0B12-D7B79DDD4E05}|IncidentManagement.API\\IncidentManagement.API.csproj|d:\\code\\incidentmanagement.api\\incidentmanagement.api\\controllers\\incidentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF72767-9C18-C306-0B12-D7B79DDD4E05}|IncidentManagement.API\\IncidentManagement.API.csproj|solutionrelative:incidentmanagement.api\\controllers\\incidentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DFF72767-9C18-C306-0B12-D7B79DDD4E05}|IncidentManagement.API\\IncidentManagement.API.csproj|d:\\code\\incidentmanagement.api\\incidentmanagement.api\\services\\incidentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,24 +51,20 @@
       "RelativeMoniker": "D:0:0:{DFF72767-9C18-C306-0B12-D7B79DDD4E05}|IncidentManagement.API\\IncidentManagement.API.csproj|solutionrelative:incidentmanagement.api\\models\\updateincidentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Code\\IncidentManagement.API\\IncidentManagement.API\\Migrations\\20251130021335_AddCommentsTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IncidentManagement.API\\Migrations\\20251130021335_AddCommentsTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFF72767-9C18-C306-0B12-D7B79DDD4E05}|IncidentManagement.API\\IncidentManagement.API.csproj|d:\\code\\incidentmanagement.api\\incidentmanagement.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFF72767-9C18-C306-0B12-D7B79DDD4E05}|IncidentManagement.API\\IncidentManagement.API.csproj|solutionrelative:incidentmanagement.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Code\\IncidentManagement.API\\IncidentManagement.API\\Migrations\\20251130015049_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IncidentManagement.API\\Migrations\\20251130015049_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DFF72767-9C18-C306-0B12-D7B79DDD4E05}|IncidentManagement.API\\IncidentManagement.API.csproj|d:\\code\\incidentmanagement.api\\incidentmanagement.api\\models\\incident.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DFF72767-9C18-C306-0B12-D7B79DDD4E05}|IncidentManagement.API\\IncidentManagement.API.csproj|solutionrelative:incidentmanagement.api\\models\\incident.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DFF72767-9C18-C306-0B12-D7B79DDD4E05}|IncidentManagement.API\\IncidentManagement.API.csproj|d:\\code\\incidentmanagement.api\\incidentmanagement.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DFF72767-9C18-C306-0B12-D7B79DDD4E05}|IncidentManagement.API\\IncidentManagement.API.csproj|solutionrelative:incidentmanagement.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF72767-9C18-C306-0B12-D7B79DDD4E05}|IncidentManagement.API\\IncidentManagement.API.csproj|d:\\code\\incidentmanagement.api\\incidentmanagement.api\\migrations\\20251130021335_addcommentstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF72767-9C18-C306-0B12-D7B79DDD4E05}|IncidentManagement.API\\IncidentManagement.API.csproj|solutionrelative:incidentmanagement.api\\migrations\\20251130021335_addcommentstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF72767-9C18-C306-0B12-D7B79DDD4E05}|IncidentManagement.API\\IncidentManagement.API.csproj|d:\\code\\incidentmanagement.api\\incidentmanagement.api\\migrations\\20251130015049_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF72767-9C18-C306-0B12-D7B79DDD4E05}|IncidentManagement.API\\IncidentManagement.API.csproj|solutionrelative:incidentmanagement.api\\migrations\\20251130015049_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,17 +74,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Code\\IncidentManagement.API\\IncidentManagement.API\\Program.cs",
               "RelativeDocumentMoniker": "IncidentManagement.API\\Program.cs",
               "ToolTip": "D:\\Code\\IncidentManagement.API\\IncidentManagement.API\\Program.cs",
               "RelativeToolTip": "IncidentManagement.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-29T00:07:15.46Z",
               "IsPinned": true,
@@ -80,13 +92,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "IncidentsController.cs",
               "DocumentMoniker": "D:\\Code\\IncidentManagement.API\\IncidentManagement.API\\Controllers\\IncidentsController.cs",
               "RelativeDocumentMoniker": "IncidentManagement.API\\Controllers\\IncidentsController.cs",
               "ToolTip": "D:\\Code\\IncidentManagement.API\\IncidentManagement.API\\Controllers\\IncidentsController.cs",
               "RelativeToolTip": "IncidentManagement.API\\Controllers\\IncidentsController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-28T23:19:39.617Z",
               "IsPinned": true,
@@ -94,20 +106,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "CommentServiceTests.cs",
+              "DocumentMoniker": "D:\\Code\\IncidentManagement.API\\IncidentManagement.Tests\\CommentServiceTests.cs",
+              "RelativeDocumentMoniker": "IncidentManagement.Tests\\CommentServiceTests.cs",
+              "ToolTip": "D:\\Code\\IncidentManagement.API\\IncidentManagement.Tests\\CommentServiceTests.cs",
+              "RelativeToolTip": "IncidentManagement.Tests\\CommentServiceTests.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAowBoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T14:42:01.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CommentService.cs",
+              "DocumentMoniker": "D:\\Code\\IncidentManagement.API\\IncidentManagement.API\\Services\\CommentService.cs",
+              "RelativeDocumentMoniker": "IncidentManagement.API\\Services\\CommentService.cs",
+              "ToolTip": "D:\\Code\\IncidentManagement.API\\IncidentManagement.API\\Services\\CommentService.cs",
+              "RelativeToolTip": "IncidentManagement.API\\Services\\CommentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T14:40:30.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IncidentServiceTests.cs",
+              "DocumentMoniker": "D:\\Code\\IncidentManagement.API\\IncidentManagement.Tests\\IncidentServiceTests.cs",
+              "RelativeDocumentMoniker": "IncidentManagement.Tests\\IncidentServiceTests.cs",
+              "ToolTip": "D:\\Code\\IncidentManagement.API\\IncidentManagement.Tests\\IncidentServiceTests.cs",
+              "RelativeToolTip": "IncidentManagement.Tests\\IncidentServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T14:25:04.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "IncidentService.cs",
               "DocumentMoniker": "D:\\Code\\IncidentManagement.API\\IncidentManagement.API\\Services\\IncidentService.cs",
               "RelativeDocumentMoniker": "IncidentManagement.API\\Services\\IncidentService.cs",
               "ToolTip": "D:\\Code\\IncidentManagement.API\\IncidentManagement.API\\Services\\IncidentService.cs",
               "RelativeToolTip": "IncidentManagement.API\\Services\\IncidentService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCwAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-30T02:58:58.286Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "20251130021335_AddCommentsTable.cs",
               "DocumentMoniker": "D:\\Code\\IncidentManagement.API\\IncidentManagement.API\\Migrations\\20251130021335_AddCommentsTable.cs",
               "RelativeDocumentMoniker": "IncidentManagement.API\\Migrations\\20251130021335_AddCommentsTable.cs",
@@ -120,7 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Comment.cs",
               "DocumentMoniker": "D:\\Code\\IncidentManagement.API\\IncidentManagement.API\\Models\\Comment.cs",
               "RelativeDocumentMoniker": "IncidentManagement.API\\Models\\Comment.cs",
@@ -133,7 +184,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\Code\\IncidentManagement.API\\IncidentManagement.API\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "IncidentManagement.API\\Data\\AppDbContext.cs",
@@ -146,7 +197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "CreateIncidentDto.cs",
               "DocumentMoniker": "D:\\Code\\IncidentManagement.API\\IncidentManagement.API\\Models\\CreateIncidentDto.cs",
               "RelativeDocumentMoniker": "IncidentManagement.API\\Models\\CreateIncidentDto.cs",
@@ -159,7 +210,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "UpdateIncidentDto.cs",
               "DocumentMoniker": "D:\\Code\\IncidentManagement.API\\IncidentManagement.API\\Models\\UpdateIncidentDto.cs",
               "RelativeDocumentMoniker": "IncidentManagement.API\\Models\\UpdateIncidentDto.cs",
@@ -172,7 +223,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "GlobalExceptionMiddleware.cs",
               "DocumentMoniker": "D:\\Code\\IncidentManagement.API\\IncidentManagement.API\\Middleware\\GlobalExceptionMiddleware.cs",
               "RelativeDocumentMoniker": "IncidentManagement.API\\Middleware\\GlobalExceptionMiddleware.cs",
@@ -185,7 +236,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "CreateCommentDto.cs",
               "DocumentMoniker": "D:\\Code\\IncidentManagement.API\\IncidentManagement.API\\Models\\CreateCommentDto.cs",
               "RelativeDocumentMoniker": "IncidentManagement.API\\Models\\CreateCommentDto.cs",
@@ -198,7 +249,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "D:\\Code\\IncidentManagement.API\\IncidentManagement.API\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "IncidentManagement.API\\Controllers\\WeatherForecastController.cs",
@@ -211,7 +262,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "20251130015049_InitialCreate.cs",
               "DocumentMoniker": "D:\\Code\\IncidentManagement.API\\IncidentManagement.API\\Migrations\\20251130015049_InitialCreate.cs",
               "RelativeDocumentMoniker": "IncidentManagement.API\\Migrations\\20251130015049_InitialCreate.cs",
@@ -224,7 +275,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Incident.cs",
               "DocumentMoniker": "D:\\Code\\IncidentManagement.API\\IncidentManagement.API\\Models\\Incident.cs",
               "RelativeDocumentMoniker": "IncidentManagement.API\\Models\\Incident.cs",
